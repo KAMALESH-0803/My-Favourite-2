@@ -1,0 +1,73 @@
+#heading {
+    text-align: center;
+    font-size: 20px;
+    background: linear-gradient(#00ffee 0%, #00ff33 100%);
+}
+
+#profile {
+    width: 180px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    z-index: 9;
+    float: none;
+    margin-top: 100px;
+    margin-left: 500px;
+}
+
+#par {
+    font-size: 18px;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#hobby {
+    font-family: cursive;
+}
+
+#hobby:hover {
+    color: red;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    margin-right: 10px;
+    float: right;
+}
+
+.link {
+    color: blue;
+    padding-top: 5px;
+    padding-bottom: 0px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+li {
+    display: inline;
+    z-index: 10;
+}
+
+.link:hover {
+    background-color: yellow;
+}
+
+#para {
+    background-color: pink;
+    padding: 50px;
+}
