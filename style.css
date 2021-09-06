@@ -8,7 +8,8 @@
 #profile {
     width: 180px;
     margin-bottom: 50px;
-    border-radius: 50%;
+    border-radius: 25%;
+    height: 100px;
     z-index: 9;
     float: none;
     margin-top: 50px;
